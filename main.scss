@@ -22,7 +22,8 @@ body {
     align-items: center;
     font-family: 'Barlow Semi Condensed', sans-serif;
     font-size: 13px;
-    background: $light-greyish-blue;
+    // background: $light-greyish-blue;
+    background: black;
 }
 
 
@@ -62,7 +63,7 @@ body {
             padding-bottom: 1em;
         }
         p {
-            
+            padding: 0;
         }
     }
     .first {

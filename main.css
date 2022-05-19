@@ -21,7 +21,7 @@ body {
           align-items: center;
   font-family: 'Barlow Semi Condensed', sans-serif;
   font-size: 13px;
-  background: #ecf2f8;
+  background: black;
 }
 
 .grid {
@@ -65,6 +65,10 @@ body {
 
 .grid .grid-item h2 {
   padding-bottom: 1em;
+}
+
+.grid .grid-item p {
+  padding: 0;
 }
 
 .grid .first {
